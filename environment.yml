@@ -1,0 +1,23 @@
+name: FocalNetAE
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - seaborn
+  - cudatoolkit
+  - pillow
+  - pandas
+  - scikit-learn
+  - scikit-learn-intelex
+  - matplotlib
+  - tqdm
+  - anaconda::scipy
+  - conda-forge::timm
+  - ipykernel
+  - umap-learn
+  - numpy==1.26.4
+  - pytorch
+  - pytorch-cuda=12.1
+  - torchaudio
+  - torchvision
+  - opencv
