@@ -1,0 +1,123 @@
+Unnamed: 0,Filename,Label,Type,Framerate,Resolution,Length (frames),InThisRepo,ID,extension,Use
+46,Pneu_liftl_pneu_case3_clip4,Bacterial pneumonia,video,15,306x306,41,Yes,46,mp4,Train
+75,Pneu_northumbria_0409_set1_vid1,Bacterial pneumonia,video,22,516x516,90,Yes,75,avi,Train
+85,Pneu_northumbria_0409_set5_vid1,Bacterial pneumonia,video,22,509x509,92,Yes,85,avi,Train
+81,Pneu_northumbria_0409_set3_vid1,Bacterial pneumonia,video,22,481x481,90,Yes,81,avi,Train
+78,Pneu_northumbria_0409_set2_vid2,Bacterial pneumonia,video,22,524x524,93,Yes,78,avi,Train
+47,Pneu_liftl_pneu_case3_clip3,Bacterial pneumonia,video,15,280x280,25,Yes,47,mp4,Train
+83,Pneu_northumbria_0409_set4_vid1,Bacterial pneumonia,video,22,500x500,90,Yes,83,avi,Train
+84,Pneu_northumbria_0409_set4_vid2,Bacterial pneumonia,video,22,494x494,91,Yes,84,avi,Train
+76,Pneu_northumbria_0409_set1_vid2,Bacterial pneumonia,video,22,520x520,93,Yes,76,avi,Train
+98,Pneu_northumbria_1009_vid1,Bacterial pneumonia,video,22,501x501,93,Yes,98,avi,Train
+43,Pneu_Basal-pneumonia-RUQ_crop,Bacterial pneumonia,video,15,268x268,27,Yes,43,mp4,Train
+80,Pneu_northumbria_0409_set2_vid4,Bacterial pneumonia,video,22,523x523,79,Yes,80,avi,Train
+89,Pneu_northumbria_0409_set6_vid3,Bacterial pneumonia,video,22,508x508,91,Yes,89,avi,Train
+86,Pneu_northumbria_0409_set5_vid2,Bacterial pneumonia,video,22,516x516,92,Yes,86,avi,Train
+50,Pneu_basalpneumonia_liftle_case1,Bacterial pneumonia,video,15,340x340,42,Yes,50,mp4,Train
+79,Pneu_northumbria_0409_set2_vid3,Bacterial pneumonia,video,22,503x503,92,Yes,79,avi,Train
+88,Pneu_northumbria_0409_set6_vid2,Bacterial pneumonia,video,22,517x517,92,Yes,88,avi,Train
+65,Pneu_Avi_Video_001,Bacterial pneumonia,video,22,608x608,91,Yes,65,mp4,Train
+4,Pneu-Atlas-pneumonia,Bacterial pneumonia,video,10,208x208,59,Yes,4,gif,Train
+92,Pneu_northumbria_0409_set6_vid7,Bacterial pneumonia,video,22,510x510,91,Yes,92,avi,Train
+48,Pneu_Pneumonia-LITFL-Ultrasound_crop,Bacterial pneumonia,video,15,316x316,27,Yes,48,mp4,Train
+67,Pneu_Avi_Video_003,Bacterial pneumonia,video,22,607x607,93,Yes,67,mp4,Train
+90,Pneu_northumbria_0409_set6_vid4,Bacterial pneumonia,video,22,519x519,91,Yes,90,avi,Train
+11,Pneu-Atlas-pneumonia2,Bacterial pneumonia,video,10,327x327,40,Yes,11,gif,Train
+66,Pneu_Avi_Video_002,Bacterial pneumonia,video,22,609x609,93,Yes,66,mp4,Train
+13,pneu-radiopaeda,Bacterial pneumonia,video,30,221x236,223,Yes,13,mp4,Train
+70,Pneu_Avi_Video_006,Bacterial pneumonia,video,22,609x609,92,Yes,70,mp4,Train
+45,Pneu_liftl_pneu_case3_clip5,Bacterial pneumonia,video,15,272x272,26,Yes,45,mp4,Train
+93,Pneu_northumbria_0409_set6_vid8,Bacterial pneumonia,video,22,508x508,91,Yes,93,avi,Train
+30,Reg_pat2Image_134441,regular,video,25,370x370,214,Yes,30,mpeg,Train
+104,Reg_northumbria_1009_vid7,regular,video,22,511x511,92,Yes,104,avi,Train
+71,Reg_Avi_Video_001,regular,video,22,609x609,92,Yes,71,mp4,Train
+58,Reg_Avi_lung-sliding,regular,video,18,528x528,56,Yes,58,mp4,Train
+100,Reg_northumbria_1009_vid2,regular,video,22,476x476,92,Yes,100,avi,Train
+44,Reg_liftl_pneucase3_clip1,regular,video,15,286x286,24,Yes,44,mp4,Train
+33,Reg_pat3Image_134904,regular,video,25,370x370,245,Yes,33,mpeg,Train
+28,Reg_pat2Image_134240,regular,video,25,370x370,254,Yes,28,mpeg,Train
+74,Reg_Avi_Video_004,regular,video,50,597x597,202,Yes,74,mp4,Train
+106,Reg_recommendations_alines_mov1,regular,video,18,322x322,180,Yes,106,mov,Train
+23,Reg_pat1Image_133327,regular,video,25,370x370,218,Yes,23,mpeg,Train
+14,Reg-NormalLungs,regular,video,25,148x141,131,Yes,14,mp4,Train
+73,Reg_Avi_Video_003,regular,video,22,608x608,84,Yes,73,mp4,Train
+29,Reg_pat2Image_134348,regular,video,25,370x370,207,Yes,29,mpeg,Train
+72,Reg_Avi_Video_002,regular,video,51,608x608,64,Yes,72,mp4,Train
+40,Reg_pat4Image_140434,regular,video,25,370x370,323,Yes,40,mpeg,Train
+96,Reg_northumbria_0409_set5_vid1,regular,video,50,605x497,200,Yes,96,avi,Train
+19,Reg_pat1Image_132943,regular,video,25,370x370,280,Yes,19,mpeg,Train
+5,Reg-Atlas-lungcurtain,regular,video,10,212x212,60,Yes,5,gif,Train
+41,Reg_pat4Image_140606,regular,video,25,370x370,218,Yes,41,mpeg,Train
+36,Reg_pat3Image_135215,regular,video,25,370x370,317,Yes,36,mpeg,Train
+17,Reg_Image_182106_crop,regular,video,31,382x382,206,Yes,17,mp4,Train
+6,Reg-Atlas,regular,video,10,250x250,59,Yes,6,gif,Train
+97,Reg_northumbria_0409_set5_vid2,regular,video,30,864x864,98,Yes,97,avi,Train
+10,Reg-Atlas-alines,regular,video,10,165x165,60,Yes,10,gif,Train
+42,Reg_pat4Image_140705,regular,video,25,370x370,266,Yes,42,mpeg,Train
+15,Reg_Image_181602_trimmed_crop,regular,video,29,386x386,374,Yes,15,mp4,Train
+101,Reg_northumbria_1009_vid3,regular,video,22,441x441,91,Yes,101,avi,Train
+20,Reg_pat1Image_133043,regular,video,25,370x370,245,Yes,20,mpeg,Train
+27,Reg_pat2Image_134138,regular,video,25,370x370,236,Yes,27,mpeg,Train
+22,Reg_pat1Image_133232,regular,video,25,370x370,199,Yes,22,mpeg,Train
+59,Reg_Avi_lung-sliding-3,regular,video,18,512x512,55,Yes,59,mp4,Train
+34,Reg_pat3Image_135026,regular,video,25,370x370,278,Yes,34,mpeg,Train
+52,Reg_liftl_case3_clip2,regular,video,15,264x264,32,Yes,52,mp4,Train
+21,Reg_pat1Image_133138,regular,video,25,370x370,260,Yes,21,mpeg,Train
+38,Reg_pat4Image_140024,regular,video,25,370x370,436,Yes,38,mpeg,Train
+102,Reg_northumbria_1009_vid5,regular,video,22,475x475,93,Yes,102,avi,Train
+63,Reg_Avi_Image004,regular,video,50,586x586,202,Yes,63,mp4,Train
+26,Reg_pat2Image_133952,regular,video,25,370x370,254,Yes,26,mpeg,Train
+99,Reg_northumbria_1009_vid1,regular,video,22,478x478,92,Yes,99,avi,Train
+24,Reg_pat1Image_133410,regular,video,25,370x370,182,Yes,24,mpeg,Train
+103,Reg_northumbria_1009_vid6,regular,video,22,484x484,93,Yes,103,avi,Train
+62,Reg_Avi_Image003,regular,video,50,520x520,202,Yes,62,mp4,Train
+64,Reg_Avi_Image008,regular,video,50,574x574,199,Yes,64,mp4,Train
+39,Reg_pat4Image_140238,regular,video,25,370x370,215,Yes,39,mpeg,Train
+91,Pneu_northumbria_0409_set6_vid5,Bacterial pneumonia,video,22,509x509,93,Yes,91,avi,Val
+82,Pneu_northumbria_0409_set3_vid2,Bacterial pneumonia,video,22,528x528,92,Yes,82,avi,Val
+69,Pneu_Avi_Video_005,Bacterial pneumonia,video,22,607x607,91,Yes,69,mp4,Val
+49,Pneu_from_article_rippey,Bacterial pneumonia,video,15,272x272,42,Yes,49,mp4,Val
+35,Reg_pat3Image_135128,regular,video,25,370x370,208,Yes,35,mpeg,Val
+37,Reg_pat4Image_135904,regular,video,25,370x370,266,Yes,37,mpeg,Val
+16,Reg_Image_181739_trimmed_crop,regular,video,29,386x386,104,Yes,16,mp4,Val
+18,Reg_Image_182340_crop,regular,video,37,400x400,309,Yes,18,mp4,Val
+32,Reg_pat3Image_134811,regular,video,25,370x370,206,Yes,32,mpeg,Val
+31,Reg_pat3Image_134711,regular,video,25,370x370,216,Yes,31,mpeg,Val
+1,Cov-Atlas+(45),COVID-19,video,10,174x174,21,Yes,1,gif,Val
+7,Cov-Atlas-+(43),COVID-19,video,10,163x163,39,Yes,7,gif,Val
+53,Cov_combatting_Image1,COVID-19,video,28,440x440,113,Yes,53,mp4,Val
+55,Cov_combatting_Image3,COVID-19,video,29,440x440,174,Yes,55,mp4,Val
+56,Cov_combatting_image4,COVID-19,video,27,476x476,137,Yes,56,mp4,Val
+109,Cov_convex_volpecelli_sonographic_v1,COVID-19,video,39,450x450,403,Yes,109,mov,Val
+110,Cov_convex_volpecelli_sonographic_v2,COVID-19,video,39,432x432,402,Yes,110,mov,Val
+113,Cov_convex_volpecelli_sonographic_v5,COVID-19,video,39,444x444,401,Yes,113,mov,Val
+114,Cov_denault_proposedUS_vid1,COVID-19,video,60,702x702,145,Yes,114,mov,Val
+116,Cov_denault_proposedUS_vid5,COVID-19,video,56,706x706,210,Yes,116,mov,Val
+117,Cov_denault_proposedUS_vid10,COVID-19,video,60,852x852,141,Yes,117,mov,Val
+119,Cov_denault_proposedUS_vid12,COVID-19,video,59,852x852,161,Yes,119,mov,Val
+121,Cov_denault_proposedUS_vid14,COVID-19,video,52,852x852,137,Yes,121,mov,Val
+122,Cov_emdocs_vid1,COVID-19,video,22,353x353,134,Yes,122,gif,Val
+123,Cov_emdocs_vid3,COVID-19,video,21,748x748,75,Yes,123,gif,Val
+68,Pneu_Avi_Video_004,Bacterial pneumonia,video,23,606x606,31,Yes,68,mp4,Test
+77,Pneu_northumbria_0409_set2_vid1,Bacterial pneumonia,video,22,508x508,91,Yes,77,avi,Test
+87,Pneu_northumbria_0409_set6_vid1,Bacterial pneumonia,video,22,514x514,92,Yes,87,avi,Test
+25,Reg_pat2Image_133824,regular,video,25,370x370,271,Yes,25,mpeg,Test
+60,Reg_Avi_lung-sliding-2,regular,video,18,528x528,56,Yes,60,mp4,Test
+61,Reg_Avi_Image002,regular,video,50,568x568,202,Yes,61,mp4,Test
+94,Reg_northumbria_0409_set3_vid1,regular,video,22,470x470,91,Yes,94,avi,Test
+95,Reg_northumbria_0409_set3_vid2,regular,video,22,502x502,94,Yes,95,avi,Test
+108,Cov_recommendations_lightbeam_mov6,COVID-19,video,30,538x538,309,Yes,108,mov,Test
+54,Cov_combatting_Image2,COVID-19,video,32,440x440,191,Yes,54,mp4,Test
+118,Cov_denault_proposedUS_vid11,COVID-19,video,60,852x852,143,Yes,118,mov,Test
+112,Cov_convex_volpecelli_sonographic_v4,COVID-19,video,39,414x414,405,Yes,112,mov,Test
+120,Cov_denault_proposedUS_vid13,COVID-19,video,48,852x852,174,Yes,120,mov,Test
+111,Cov_convex_volpecelli_sonographic_v3,COVID-19,video,39,416x416,399,Yes,111,mov,Test
+0,Cov-Atlas+(44),COVID-19,video,10,139x139,41,Yes,0,gif,Test
+3,Cov-Atlas-Day+4,COVID-19,video,10,230x230,40,Yes,3,gif,Test
+115,Cov_denault_proposedUS_vid2,COVID-19,video,57,842x842,459,Yes,115,mov,Test
+107,Cov_recommendations_likebutterfly_mov5,COVID-19,video,23,370x370,138,Yes,107,mov,Test
+8,Cov-Atlas-Day+1,COVID-19,video,10,408x408,33,Yes,8,gif,Test
+9,Cov-Atlas-Day+3,COVID-19,video,10,240x240,40,Yes,9,gif,Test
+57,Cov_combatting_Image5,COVID-19,video,30,394x394,182,Yes,57,mp4,Test
+2,Cov-Atlas-Day+2,COVID-19,video,10,142x142,83,Yes,2,gif,Test
+12,Cov-Atlas-suspectedCovid,COVID-19,video,25,1080x1080,100,Yes,12,mp4,Test

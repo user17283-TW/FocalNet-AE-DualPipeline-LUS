@@ -1,11 +1,12 @@
 # FocalNet-AE-DualPipeline-LUS
 
 ## Download Processed Datasets
-1. Download from https://drive.google.com/file/d/1gBcONDFEbUcpqdNAOZq0OCtOHrgWhpOh/view?usp=drive_link
+1. Download from https://drive.google.com/file/d/1gBcONDFEbUcpqdNAOZq0OCtOHrgWhpOh/view
 2. Unzip and place all files in the `data/` directory.
 
 ## Install Dependencies
 1. All required dependencies are listed in the `environment.yml` file.
+2. You can use `conda env create --file environment.yml` to create the environment.
 
 ## FocalNet-AE Finetuning
 1. Execute step1.sh to start the finetuning process.
