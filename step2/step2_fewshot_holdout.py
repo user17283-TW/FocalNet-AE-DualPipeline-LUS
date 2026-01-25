@@ -139,7 +139,7 @@ def split_patient_ids(
     return train_set, test_set
 
 folder = STEP1_PATH
-for DATA_LIMIT in [1, 5, 10, 15, 20, 25, 30]:
+for DATA_LIMIT in [5, 10, 15, 20, 25, 30]:
     result_list = []
     for seed in range(SEED_START, SEED_END):
         SEED = seed
