@@ -183,7 +183,7 @@ for DATA_LIMIT in [1, 5, 10, 15, 20, 25, 30]:
         train_ids, test_ids = split_patient_ids(json_path="data/OpenPOCUS/openPOCUS_filtered.json", data_limit=DATA_LIMIT, seed=SEED)
 
         train_dataset = OpenPOCUSDataset_new(train_ids,root_dir="data/OpenPOCUS/Lung", transform=transform)
-        test_dataset = OpenPOCUSDataset_new(test_ids,root_dir="data/OpenPOCUS/Lung", transform=X_train_transformed)
+        test_dataset = OpenPOCUSDataset_new(test_ids,root_dir="data/OpenPOCUS/Lung", transform=transform)
 
         print(f"Train dataset size: {len(train_dataset)}, Test dataset size: {len(test_dataset)}")
 
@@ -292,6 +292,6 @@ for DATA_LIMIT in [1, 5, 10, 15, 20, 25, 30]:
         result_list.append(res)
         print("Patient-level Metrics:", res)
 
-        with open(f"output/Step2_{OUTPUT_NAME}_Fewshot{DATA_LIMIT}_Holdout.json", "w", encoding="utf-8") as f:
+        with open(f"output/Step2_{OUTPUT_NAME}_Fewshot_Holdout_{DATA_LIMIT}.json", "w", encoding="utf-8") as f:
             f.write(json.dumps(result_list))
             f.close()
